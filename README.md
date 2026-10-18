@@ -22,6 +22,7 @@
 
 <!-- 💡 Tip: You can drag & drop your demo GIF directly here in the GitHub editor to embed it! -->
 ## 🎥 Preview
+<img width="1185" height="687" alt="gif1" src="https://github.com/user-attachments/assets/c62ac9e5-04bf-4141-a1e0-838ee0b8f474" />
 
 > *Fast stoichiometry table, dynamic yield calculation, and multi-step synthesis management.*
 
