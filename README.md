@@ -86,7 +86,7 @@ SynNote operates on a fair, researcher-friendly **freemium** model:
 | **SynNote Free** | **$0** (Free Forever) | **1 Active Project** (Full access to all features, Ketcher, Stoichiometry, etc.) |
 | **SynNote Pro** | **$29** (One-time payment) | **Unlimited Projects**, 3 device activations per license, lifetime updates |
 
-👉 **[Get SynNote Pro License Key ($29)](https://nano-labo.lemonsqueezy.com/checkout/buy/1864f2a9-b0af-4840-80f9-ce021903dac9)**
+👉 **[Get SynNote Pro License Key ($29)](https://nano-labo.lemonsqueezy.com/checkout/buy/07a415bf-4b11-469d-b925-e637ae24b488)**
 
 ---
 
