@@ -14,7 +14,7 @@
 
 <br />
 
-[📥 **Download Latest Windows Installer (.exe)**](https://github.com/nano-labo-chem/SynNote/releases/download/v1.2.0/SynNote_1.2.0_x64-setup.exe) • [🚀 **Explore Features**](#-key-features) • [💎 **Upgrade to Pro**](https://nano-labo.lemonsqueezy.com/checkout/buy/1864f2a9-b0af-4840-80f9-ce021903dac9)
+[📥 **Download Latest Windows Installer (.exe)**](https://github.com/nano-labo-chem/SynNote/releases/download/v1.2.0/SynNote_1.2.0_x64-setup.exe) • [🚀 **Explore Features**](#-key-features) • [💎 **Upgrade to Pro**](https://nano-labo.lemonsqueezy.com/checkout/buy/07a415bf-4b11-469d-b925-e637ae24b488)
 
 </div>
 
